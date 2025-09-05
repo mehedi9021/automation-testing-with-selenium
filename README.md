@@ -1,1 +1,1 @@
-# automation-testing-with-selenium-python
+# web-automation-with-selenium-python
