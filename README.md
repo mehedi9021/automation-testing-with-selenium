@@ -1,1 +1,1 @@
-# web-automation-with-selenium-python
+# web-automation-selenium-python
